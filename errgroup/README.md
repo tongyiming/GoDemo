@@ -1,0 +1,1 @@
+sync.ErrGroup 相当于为sync.WaitGroup 增加了错误返回的功能
